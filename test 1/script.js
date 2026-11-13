@@ -32,5 +32,5 @@ function calculateGrade(average) {
   return "E";
 }
 
-console.log("Average: " + average.toFixed(2));
+console.log("Average: " + average);
 console.log("Grade: " + grade);  
