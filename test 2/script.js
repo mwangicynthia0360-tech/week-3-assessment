@@ -9,3 +9,5 @@ console.log(shoppingList);
 
 shoppingList.shift("Bread");
 console.log(shoppingList);
+
+console.log(shoppingList.length);
